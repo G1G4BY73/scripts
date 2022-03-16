@@ -1,1 +1,1 @@
-python3 -c "import pty; pty.spawn('/bin/bash')"
+echo " python3 -c \"import pty; pty.spawn('/bin/bash')\" "  | xclip -selection clipbord
