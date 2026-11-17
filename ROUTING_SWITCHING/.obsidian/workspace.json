@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "6eedf2e4feb6fdbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5912214f5383244d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e6de0b855b5b54b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day -15 STP (Spanning Tree Protocol).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day -15 STP (Spanning Tree Protocol)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9f4b7a997876a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22ddb4929b62add",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "752c60b34fe1ec14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "896427faf8fa90d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4a77a5726fe94fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0cb54910d375e701",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dc4c66941442d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02ad6e115c176c18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "de8eb94b601a1588",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "06e26b9faf75a39f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8e437b2f6dd2a8f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4e6de0b855b5b54b",
+  "lastOpenFiles": [
+    "Day -16 STP continued....md",
+    "Day -15 STP (Spanning Tree Protocol).md",
+    "Day -7 IP Addressing.md",
+    "Day -7 IPv4 Addressing.md",
+    "Day -8 IPv4 Addressing Part 2.md",
+    "Day -30 Extended ACLs.md",
+    "Pasted image 20250424013132.png",
+    "Pasted image 20250424013014.png",
+    "Pasted image 20250424012754.png",
+    "Pasted image 20250424012705.png",
+    "Pasted image 20250424012446.png",
+    "Pasted image 20250424011621.png",
+    "Pasted image 20250424011352.png",
+    "Pasted image 20250424001144.png",
+    "Pasted image 20250424001012.png",
+    "Pasted image 20250424000914.png",
+    "Day -29 Standard ACLs.md",
+    "Day -28 OSPF Part 3.md",
+    "Untitled",
+    "LAB -2.md",
+    "LAB -1.md",
+    "Day -5 Ethernet LAN Switching.md",
+    "Basics.md",
+    "Day -27 OSPF Part 2.md",
+    "Day -26 OSFP Part 1.md",
+    "Day -10 The IPv4 Headers.md",
+    "Day -25 RIP & EIGRP.md",
+    "Day -24 Dynamic Routing.md",
+    "Day -23 EtherChannel.md",
+    "Day -14 VLANs.md",
+    "Day -13 Subnetting.md",
+    "Day -9 Switch Intefaces.md",
+    "Day -6 Ethernet LAN Switching.md",
+    "Day -3 OSI MODEL & TCP-IP SUITE.md",
+    "DAY -1 Network Devices.md",
+    "Day -12  Static Routing.md",
+    "Day -11 Routing Fundamentals.md"
+  ]
+}
